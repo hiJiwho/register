@@ -1,0 +1,11 @@
+{
+  "description": "Test app or Personal portfolio at jiwho.web.app",
+  "repo": "https://github.com/hiJiwho/M2U",
+  "owner": {
+    "username": "hiJiwho",
+    "email": "hi.jiwho@gmail.com"
+  },
+  "records": {
+    "CNAME": "jiwho.web.app"
+  }
+}
